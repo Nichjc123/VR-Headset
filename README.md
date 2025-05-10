@@ -1,4 +1,4 @@
-# VR Display Extension System
+# VR Display Prototype System
 
 A prototype VR headset system designed for productivity, providing an immersive extension of your laptop or desktop display. This project explores the fundamental mathematics and graphics processing required for virtual reality technology with a focus on workplace productivity applications.
 
